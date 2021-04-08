@@ -14,7 +14,7 @@ audio.play();
 let canvas = document.getElementById("myCanvas");
 let ctx = canvas.getContext("2d");
 canvas.width = 640;
-canvas.height = 640;
+canvas.height = 400;
 
 // // Insérer image
 // let spaceImg = document.createElement('img');
